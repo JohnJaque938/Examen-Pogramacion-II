@@ -1,2 +1,2 @@
-# Examen-Pogramacion-II
-Trabajo requerido por el Examen (Pogramación II)
+# Examen-Programacion-II
+Trabajo requerido por el Examen (Programación II)
